@@ -3,7 +3,8 @@
 Proyecto Integrador — Redes e Infraestructura, Computación Paralela y Distribuida, Analítica y Visualización.
 
 **Integrantes:** Laura Daniela Pérez González
-**Universidad Santo Tomasn - Ingenieria de Datos e Inteligencia Artificial - 4 semestre**  
+
+**Universidad Santo Tomas - Ingenieria de Datos e Inteligencia Artificial - 4 semestre**  
 **Docentes:** Ivan Felipe Mariño Barreto, Zalma Valentina Galeano y Julian David Pareja Garzón
 
 ## Descripción
@@ -32,7 +33,7 @@ Proyecto_Modbus/
 ├── graficas.py                         # 6 figuras (Matplotlib/Seaborn)
 ├── extraer_acl.py, evaluar_acl.py      # construcción y evaluación de la ACL
 ├── figuras/                            # PNG generados
-├── data/                               # resultados_*.csv (los datos pesados no se suben)
+├── data/                               # resultados_*.csv (Datos pesados, no subidos)
 ├── packet_tracer/                      # subestacion.pkt, subestacion_acl.pkt
 ├── dashboard/                          # dashboard_modbus.pbix
 └── informe/, poster/, video/           # entregables
@@ -51,7 +52,7 @@ pip install -r requirements.txt
 
 ## Datos
 El dataset **CIC Modbus 2023** (Canadian Institute for Cybersecurity, Universidad de New Brunswick) no se incluye por su tamaño (PCAP de varios GB).
-Descárguelo desde el sitio oficial del CIC y colóquelo en `modbus_dataset/` conservando su estructura de carpetas.
+Pueden descargarlo desde el sitio oficial del CIC y colocarlo en `modbus_dataset/` conservando su estructura de carpetas.
 
 ## Cómo reproducir (orden de ejecución)
 ```bash
@@ -67,9 +68,9 @@ python evaluar_acl.py        # 8. evaluación -> data/resultados_acl.csv
 Luego abrir `packet_tracer/subestacion.pkt` (sin ACL) y `subestacion_acl.pkt` (con ACL) y `dashboard/dashboard_modbus.pbix`.
 
 ## Limitaciones
-- Equipo de pruebas de 2 núcleos: el speedup de Spark en modo local es limitado (overhead mayor que el trabajo).
+- Equipo de pruebas de 2 núcleos: el speedup de Spark en modo local es limitado.
 - 7 de los 9 tipos de ataque documentados tienen paquetes etiquetados.
-- La ACL es una lista blanca por IP/puerto: no detecta ataques que reutilizan flujos permitidos (escenario comprometido).
+- La ACL es una lista blanca por IP/puerto: no detecta ataques que reutilizan flujos permitidos.
 - Etiquetado por ventanas de tiempo desde los logs, con un desfase de −2 s y márgenes; puede haber ruido en los bordes.
 
 ## Uso de IA
