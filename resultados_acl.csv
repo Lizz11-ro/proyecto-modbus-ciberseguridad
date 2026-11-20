@@ -1,0 +1,4 @@
+escenario,ataque_total,ataque_bloqueado,ataque_bloqueado_%,legitimo_total,legitimo_bloqueado,legitimo_bloqueado_%
+ext_nw0,98050,98050,100.0,1063371,0,0.0
+ext_nw1,440598,440598,100.0,106067,0,0.0
+comprometido,44903,0,0.0,3048323,0,0.0

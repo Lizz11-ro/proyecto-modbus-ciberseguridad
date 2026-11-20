@@ -1,0 +1,53 @@
+tipo_ataque,func,count
+Baseline replay,,27418
+Baseline replay,1,2098
+Baseline replay,3,1050
+Baseline replay,4,1050
+Baseline replay,2,1048
+Baseline replay,5,8
+Baseline replay,6,8
+Delay response,,6191
+Delay response,1,510
+Delay response,2,260
+Delay response,4,248
+Delay response,3,248
+False data injection,,1498
+False data injection,1,140
+False data injection,2,74
+False data injection,4,68
+False data injection,3,68
+False data injection,5,2
+Frame stacking,,376
+Frame stacking,1,33
+Frame stacking,3,18
+Frame stacking,4,18
+Frame stacking,2,18
+Frame stacking,1;1;1,1
+Frame stacking,1;1,1
+Frame stacking,1;1;1;1;1,1
+Length manipulation,,632
+Length manipulation,1,54
+Length manipulation,2,36
+Length manipulation,4,24
+Length manipulation,3,24
+Payload injection,,627
+Payload injection,1,60
+Payload injection,3,30
+Payload injection,2,30
+Payload injection,4,30
+Query flooding,,704
+Query flooding,1,108
+Query flooding,3,30
+Query flooding,2,30
+Query flooding,4,30
+Query flooding,1;1;1;1;1;1;1;1;1,3
+Query flooding,1;1;1;1;1;1;1;1;1;1,1
+Query flooding,1;1;1,1
+Query flooding,1;1;1;1;1;1;1;1;1;1;1,1
+normal,,2561286
+normal,1,194334
+normal,2,97167
+normal,4,97166
+normal,3,97166
+normal,6,890
+normal,5,476

@@ -1,0 +1,9 @@
+tipo_ataque,paquetes,largo_medio,largo_min,largo_max
+normal,3048485,80.97,42,777
+Baseline replay,32680,81.62,54,323
+Delay response,7457,80.24,54,323
+False data injection,1850,84.87,66,323
+Query flooding,908,84.82,54,323
+Payload injection,777,83.23,66,323
+Length manipulation,770,85.35,54,323
+Frame stacking,466,83.48,66,323
