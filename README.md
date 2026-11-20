@@ -34,7 +34,7 @@ Proyecto_Modbus/
 ├── extraer_acl.py, evaluar_acl.py      # construcción y evaluación de la ACL
 ├── figuras/                            # PNG generados
 ├── data/                               # resultados_*.csv (Datos pesados, no subidos)
-├── packet_tracer/                      # subestacion.pkt, subestacion_acl.pkt
+├── packet_tracer/                      # packet_subestacion.pkt, packet_subestacion_acl.pkt
 ├── dashboard/                          # dashboard_modbus.pbix
 └── informe/, poster/, video/           # entregables
 ```
