@@ -2,7 +2,7 @@
 
 Proyecto Integrador — Redes e Infraestructura, Computación Paralela y Distribuida, Analítica y Visualización.
 
-**Integrantes:** Laura Daniela Pérez González
+**Integrantes:** Laura Daniela Pérez González y Karen Lizeth Rojas Rodríguez
 
 **Universidad Santo Tomas - Ingenieria de Datos e Inteligencia Artificial - 4 semestre**  
 **Docentes:** Ivan Felipe Mariño Barreto, Zalma Valentina Galeano y Julian David Pareja Garzón
