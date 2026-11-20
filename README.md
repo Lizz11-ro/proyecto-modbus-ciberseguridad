@@ -80,4 +80,23 @@ Se utilizó Claude (Anthropic) como herramienta de apoyo y consulta durante la p
 Como integrantes del equipo ejecutamos los códigos sobre el dataset CIC Modbus 2023, se configuro la topología y las ACL en Packet Tracer, se obtuvieron y verificaron los resultados, y se redactaron los documentos del proyecto.
 
 ## Referencias
-_(Dataset CIC Modbus 2023 y las referencias del informe.)_
+
+[1] K. Boakye-Boateng, A. A. Ghorbani, and A. Habibi Lashkari, "CIC Modbus Dataset 2023," Canadian Institute for Cybersecurity, Univ. of New Brunswick, 2023. [Online]. Available: https://www.unb.ca/cic/datasets/modbus-2023.html (Accessed: Nov. 20, 2026).
+
+[2] K. Boakye-Boateng, A. A. Ghorbani, and A. Habibi Lashkari, "Securing substations with trust, risk posture and multi-agent systems: A comprehensive approach," in *Proc. 20th Int. Conf. Privacy, Security and Trust (PST)*, Copenhagen, Denmark, Aug. 2023.
+
+[3] K. Stouffer *et al.*, "Guide to operational technology (OT) security," NIST, Gaithersburg, MD, USA, Spec. Pub. 800-82 Rev. 3, Sep. 2023. doi: [10.6028/NIST.SP.800-82r3](https://doi.org/10.6028/NIST.SP.800-82r3).
+
+[4] Modbus Organization, "Modbus application protocol specification V1.1b3," 2012. [Online]. Available: https://modbus.org/modbus-specifications (Accessed: Nov. 20, 2026).
+
+[5] J. Moy, "OSPF version 2," IETF, RFC 2328, Apr. 1998. [Online]. Available: https://www.rfc-editor.org/rfc/rfc2328
+
+[6] Python Software Foundation, "multiprocessing — Process-based parallelism," *Python 3 Documentation*. [Online]. Available: https://docs.python.org/3/library/multiprocessing.html (Accessed: Nov. 20, 2026).
+
+[7] Apache Software Foundation, "Apache Spark documentation." [Online]. Available: https://spark.apache.org/docs/latest/ (Accessed: Nov. 20, 2026).
+
+[8] G. M. Amdahl, "Validity of the single processor approach to achieving large scale computing capabilities," in *Proc. AFIPS Spring Joint Comput. Conf.*, 1967, pp. 483–485.
+
+[9] J. D. Hunter, "Matplotlib: A 2D graphics environment," *Comput. Sci. Eng.*, vol. 9, no. 3, pp. 90–95, 2007.
+
+[10] Microsoft, "Power BI documentation." [Online]. Available: https://learn.microsoft.com/power-bi/ (Accessed: Nov. 20, 2026).
