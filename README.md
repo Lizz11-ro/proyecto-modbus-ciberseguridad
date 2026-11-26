@@ -1,4 +1,4 @@
-# Ciberseguridad en infraestructura eléctrica crítica (Modbus TCP)
+# Análisis paralelo del tráfico de ataques Modbus/TCP para la segmentación de redes IT/OT en subestaciones eléctricas
 
 Proyecto Integrador — Redes e Infraestructura, Computación Paralela y Distribuida, Analítica y Visualización.
 
@@ -73,11 +73,6 @@ Luego abrir `packet_tracer/subestacion.pkt` (sin ACL) y `subestacion_acl.pkt` (c
 - La ACL es una lista blanca por IP/puerto: no detecta ataques que reutilizan flujos permitidos.
 - Etiquetado por ventanas de tiempo desde los logs, con un desfase de −2 s y márgenes; puede haber ruido en los bordes.
 
-## Uso de IA
-
-Se utilizó Claude (Anthropic) como herramienta de apoyo y consulta durante la parte técnica del proyecto: orientación para depurar scripts en Python, configurar el entorno de trabajo (Java y Hadoop en Windows) y construir las medidas y la distribución del dashboard en Power BI.
-
-Como integrantes del equipo ejecutamos los códigos sobre el dataset CIC Modbus 2023, se configuro la topología y las ACL en Packet Tracer, se obtuvieron y verificaron los resultados, y se redactaron los documentos del proyecto.
 
 ## Referencias
 
