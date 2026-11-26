@@ -82,13 +82,22 @@ Como integrantes del equipo ejecutamos los códigos sobre el dataset CIC Modbus 
 ## Referencias
 
 [1]  Modbus Organization, «Modbus application protocol specification V1.1b3,» 2012. [En línea]. Disponible: https://modbus.org/modbus-specifications
+
 [2]  K. Stouffer et al., «Guide to operational technology (OT) security,» NIST, Gaithersburg, MD, EE. UU., Spec. Pub. 800-82 Rev. 3, sep. 2023. doi: 10.6028/NIST.SP.800-82r3.  Disponible: https://doi.org/10.6028/NIST.SP.800-82r3
+
 [3]  K. Boakye-Boateng, A. A. Ghorbani y A. Habibi Lashkari, «CIC Modbus Dataset 2023,» Canadian Institute for Cybersecurity, Univ. of New Brunswick, 2023. [En línea]. Disponible: https://www.unb.ca/cic/datasets/modbus-2023.html
+
 [4]  K. Boakye-Boateng, A. A. Ghorbani y A. Habibi Lashkari, «Implementation of a trust-based framework for substation defense in the Smart Grid,» Smart Cities, vol. 7, n.º 1, pp. 99–140, dic. 2023, doi: 10.3390/smartcities7010005. 
+
 [5]  J. Moy, «OSPF version 2,» IETF, RFC 2328, abr. 1998. [En línea]. Disponible: https://www.rfc-editor.org/rfc/rfc2328
+
 [6]  G. M. Amdahl, «Validity of the single processor approach to achieving large scale computing capabilities,» en Proc. AFIPS Spring Joint Comput. Conf., 1967, pp. 483–485.
+
 [7]  Python Software Foundation, «multiprocessing — Process-based parallelism,» Python 3 Documentation. [En línea]. Disponible: https://docs.python.org/3/library/multiprocessing.html
+
 [8]  Apache Software Foundation, «Apache Spark documentation.» [En línea]. Disponible: https://spark.apache.org/docs/latest/
+
 [9]  J. D. Hunter, «Matplotlib: A 2D graphics environment,» Comput. Sci. Eng., vol. 9, n.º 3, pp. 90–95, 2007.
+
 [10]  Microsoft, «Power BI documentation.» [En línea]. Disponible: https://learn.microsoft.com/power-bi/
 
